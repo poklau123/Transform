@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Alice\\Transform\\": "src/Transform"
+            "Transform\\": "src/Transform"
         }
     }
 }
