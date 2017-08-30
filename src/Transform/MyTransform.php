@@ -14,4 +14,8 @@ class MyTransform
         }
         return $arr;
     }
+
+    public function Helloworld(){
+        echo 'Helloworld';
+    }
 }
