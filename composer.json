@@ -1,5 +1,5 @@
 {
-    "name": "alice/helloworld",
+    "name": "alice/Transform",
     "description": "this is a test composer git responsitory",
     "type": "library",
     "license": "MIT",
